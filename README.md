@@ -1,6 +1,6 @@
 # Temporary SSH User Creation Script
 
-This script creates temporary local SSH users on VMware Aria Operations appliances.
+This script creates temporary local SSH users on Linux-based VMs/Appliances.
 
 ## Features
 
